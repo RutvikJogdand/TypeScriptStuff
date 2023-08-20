@@ -1,0 +1,13 @@
+{
+  "files": [],
+  "include": ["./RestaurantRecommender/src/**/*.ts", "./TypeMart/src/**/*.ts"],
+    "compilerOptions": {
+      "target": "ES6",
+      "module": "CommonJS",
+      "outDir": "./dist",
+      "strict": true,
+      "esModuleInterop": true,
+      "sourceMap": true
+    }
+}
+  
